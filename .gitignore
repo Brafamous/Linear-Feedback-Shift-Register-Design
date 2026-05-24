@@ -1,0 +1,14 @@
+# Simulation artifacts
+work/
+vsim.wlf
+*.vcd
+transcript
+
+# Backup files
+*.bak
+
+# Editor settings
+.vscode/
+
+# Optional generated logs
+*.log
