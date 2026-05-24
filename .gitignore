@@ -12,3 +12,6 @@ transcript
 
 # Optional generated logs
 *.log
+
+# Local reference material
+Task/Full_LFSR_Project_Transcript.txt
